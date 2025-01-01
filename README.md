@@ -9,4 +9,4 @@ It takes me forever because I am very lost regarding these topics and I had to b
 The final result is rather disastrous, I did as much as I could to imitate the example website but I really don't know how its done so it ended being a bad result (sorry).
 
 Conclusion:
-I really need that tutoria.
+I really need that tutoria. I did not even submit this, I am very very slow understanding git and html and I keep getting lost, I felt like this activity was a real challenge which overpassed me. I will request tutoria the 7th of January to try fix my mess if thats good for you, I saw there is a time available at 22:30. Sorry again <3
